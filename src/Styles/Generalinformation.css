@@ -1,0 +1,21 @@
+.imageContainer {
+    width: 15rem;
+    height: 15rem;
+}
+
+img {
+    min-height: 15rem;
+    min-width: 15rem;
+    max-width: 100%;
+    max-height: 100%;
+    border: 3px dashed grey;
+    object-fit: cover;
+}
+
+  
+  
+  
+  
+  
+  
+  
