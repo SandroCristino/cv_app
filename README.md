@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Restaurant Page:]https://sandywezzy.github.io/restaurant_page/
+[CV_Application:]https://sandywezzy.github.io/cv_app/
 
 
 ## Getting Started
