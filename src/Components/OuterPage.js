@@ -4,20 +4,18 @@ import Education from './Education'
 import Career from './Career'
 import '../Styles/OuterPage.css'
 
-class OuterPage extends Component {
-  render() {
-    return (
-      <div className='outer-page'>
-        <header>My CV</header>
-        <main>
+function OuterPage() {
+  return (
+    <div>
+      <header>My CV</header>
+       <main>
           <Generalinformation />
           <Education />
           <Career />
         </main>
         <footer>&copy; 2023 My CV</footer>
-      </div>
-    )
-  }
+    </div>
+  )
 }
 
 export default OuterPage
