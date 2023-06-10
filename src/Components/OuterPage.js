@@ -14,7 +14,7 @@ class OuterPage extends Component {
           <Education />
           <Career />
         </main>
-        <footer>&copy; 2023 My CV</footer>
+        <footer>SandroCristino on GitHub</footer>
       </div>
     )
   }
