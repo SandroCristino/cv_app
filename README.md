@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[CV_Application:]https://sandywezzy.github.io/cv_app/
+[CV_Application:]https://SandroCristino.github.io/cv_app/
 
 
 ## Getting Started
